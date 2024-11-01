@@ -13,7 +13,7 @@ git clone https://github.com/FatimaBouyarmane/RPC-Encrypt-Decrypt.git
 cd RPC-Encrypt-Decrypt
 
 Compile:
-javac src/*.java
+javac *.java
 
 Run Server:
 java -cp src Server
