@@ -16,7 +16,7 @@ Compile:
 javac *.java
 
 Run Server:
-java -cp src Server
+java EncryptionServer
 
 Run Client: In a new terminal:
-java -cp src Client
+java EncryptionClientGUI
